@@ -2,9 +2,9 @@ Excel highlight individual cells based on indicator variables
 
 Problem
 
-  Highlight cells Age an Height when populated
+  Highlight Age and Height when indicator variables hilite1 and hilite2 contain 'AGE' and 'HEIGHT' respectively 
 
-  I assume hilite1 and hilite2 have the same variables for all observations.
+  I assume hilite1 and hilite2 have the same variable names for all observations.
   Can be made dynamic.
 
 Using ods excel instead of tagsets
